@@ -35,7 +35,7 @@
  ### for one line : 
  ` print('Hello world')`
  ### for more then one line : 
- ``` markdown
+ ``` c
      int x = 10;
      int y = 5;
      int sum = x+y;
