@@ -35,6 +35,10 @@
  ### for one line : 
  ` print('Hello world')`
  ### for more then one line : 
- `` print('hello world')
-    print('my name is wassim')``
+ ``` markdown
+     int x = 10;
+     int y = 5;
+     int sum = x+y;
+     printf('sum');
+  ```
  
