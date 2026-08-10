@@ -25,9 +25,7 @@
   -|-
   Wassim | Wassim@gmail.com
   Bassem | Bessem@gmail.com
-  -|-
   bilal | bilal@gmail.com
   islem | Islem@gmail.com
-  -|-
   rawan | Rawan@gmail.com
   Adem | Adem@gmail.com
