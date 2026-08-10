@@ -29,3 +29,12 @@
   islem | Islem@gmail.com
   rawan | Rawan@gmail.com
   Adem | Adem@gmail.com
+
+# Code 
+ this is how you can type code 
+ ### for one line : 
+ ` print('Hello world')`
+ ### for more then one line : 
+ `` print('hello world')
+    print('my name is wassim')``
+ 
