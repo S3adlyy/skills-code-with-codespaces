@@ -33,12 +33,12 @@
 # Code 
  this is how you can type code 
  ### for one line : 
- ` print('Hello world')`
+ `print('Hello world')`
  ### for more then one line : 
  ``` c
-     int x = 10;
-     int y = 5;
-     int sum = x+y;
-     printf('sum');
-  ```
+ int x = 10;
+ int y = 5;
+ int sum = x+y;
+ printf('sum');
+ ```
  
